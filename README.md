@@ -47,8 +47,8 @@
 <img width="1553" height="834" alt="image" src="https://github.com/user-attachments/assets/f9f0a4e8-8eaf-4fc8-b9ab-8ac9ec4ba30d" />
 
 
-### Name:VASANTHABALAN K
-### Register Number:212224230296
+### Name:GOKULAN R
+### Register Number:212224230076
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
